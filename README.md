@@ -1,5 +1,8 @@
 # curso-matplotlib
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://vitrinedev.s3.amazonaws.com/iris.png#vitrinedev)
+
 ## Objetivos
 - Aprender a fazer visualizações com o Matplotlib
 - Compreender o funcionamento de figuras e eixos do Matplotlib
