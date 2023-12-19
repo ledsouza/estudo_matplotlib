@@ -1,4 +1,11 @@
-# curso-matplotlib
+# Estudo da biblioteca matplotlib
+
+Projeto desenvolvido durante curso do matplotlib
+
+| :books: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Estudo da biblioteca matplotlib**
+| :label: Tecnologias | python (matplotlib)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://vitrinedev.s3.amazonaws.com/iris.png#vitrinedev)
